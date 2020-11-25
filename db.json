@@ -1,0 +1,33 @@
+{
+  "resto": [
+    {
+      "id": 1,
+      "name": " abc Restaurant",
+      "Adress": "paragshshixgd nhxsikbx",
+      "Mobile": 8828457817,
+      "Email": "omkar1999.14@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": " Omkar Restaurant",
+      "Adress": "paragshshixgd nhxsikbx",
+      "Mobile": 882845917,
+      "Email": "gupta1999.14@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": " Gaytri Restaurant",
+      "Adress": "paragshshixgd nhxsikbx",
+      "Mobile": 882845817,
+      "Email": "gupta1999.14@gmail.com"
+    }
+  ],
+  "users": [
+    {
+      "name": "Omkar 223",
+      "Password": "jhcjnh",
+      "Email": "2276169@gnkhalsa.edu.in",
+      "id": 1
+    }
+  ]
+}
